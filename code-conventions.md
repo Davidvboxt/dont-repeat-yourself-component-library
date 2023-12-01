@@ -56,6 +56,8 @@ header nav ul li {
 }
 ```
 
+Ook is het handig om gezamelijk css variables te gebruiken die aanleiden tot de huisttijl van hallo strand eiland. Dit zorgt er bijvoorbeeld voor dat iedereen dezelfde kleuren gebruikt
+
 ### Custom properties
 De naam van de repository zegt het al: "Don't Repeat Yourself". Hiermee willen we ons zelf binnen CSS zo min mogelijk herhalen. Daarom gebruiken we custom properties voor onder meer: Animatie, Kleur, Eenheden en eventueel schaduw. De custom properties schrijven we alsvolgt:
 
